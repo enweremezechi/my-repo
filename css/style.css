@@ -98,12 +98,10 @@ h1 {
 
 .search-btn img {
     position: relative;
-}
-
-.left-icon {
     left: 45px;
     top: 10px;
 }
+
 
 .right-icon {
     right:  45px;
