@@ -1,0 +1,13 @@
+
+@media(max-width:600px) {
+
+    .middle input {
+        margin-top: 3%;
+        padding: 5% 15%;
+        border-radius: 20px;
+        border: 1px solid rgb(218, 213, 213);
+    }
+    
+   
+
+}
